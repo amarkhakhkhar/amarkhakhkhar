@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 ### Connect with me :
 
-[<img align=”left” alt=”jobin_james_ride | Instagram” width=”22px” src=”https://raw.githubusercontent.com/amarkhakhkhar/Readme.md/master/icons8-instagram.svg" />][instagram]
 
 
