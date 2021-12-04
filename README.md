@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Connect with me :
-
+Instagram = https://instagram.com/0nes.and.zer0es
 
 
