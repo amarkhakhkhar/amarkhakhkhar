@@ -1,3 +1,13 @@
+<div align="center">
+	<br>
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Amar Khakhkhar</h1>
 <h3 align="center">A newbie coder, first year student aspiring to be successful developer.</h3>
 
