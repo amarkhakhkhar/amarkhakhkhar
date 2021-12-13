@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="ezgif-3-00f6a6f677f1.gif" width=screen-width height=screen-height>
+<img src="GIF-211213_230336.gif" alt="Hello, I'm Amar Khakhkhar I'm a Software Developer and Web developer" width=screen-width height=screen-height>
 </p>
 <h3 align="center">A newbie coder, first year student aspiring to be successful developer.</h3>
 
