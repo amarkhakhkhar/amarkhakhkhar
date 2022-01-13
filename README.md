@@ -1,10 +1,5 @@
-<h3 align="center">
-  Hello, I'm Amar Khakhkhar, Welcome to my profile
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans&color=%2336BCF7&lines=I'm+a+Software+developer;I'm+an+App+developer;I'm+a+Web+developer;I'm+learning+Game+developing"></a>
+<img src="20220113_112346.gif"/>
 </p>
 
 
@@ -39,4 +34,4 @@
 <br>
 <br>
 <h5> Note: This widget doesn't show my best languages skills, it shows language I have used in repositories</h5>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarkhakhkhar&show_icons=true&theme=dark&locale=en&layout=compact" alt="amarkhakhkhar" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarkhakhkhar&show_icons=true&theme=dark&locale=en&layout=compact" alt="amarkhakhkhar" /></p>
