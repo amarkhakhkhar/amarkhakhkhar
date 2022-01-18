@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amarkhakhkhar2241566@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL AT amarkhakhkhar2241566@gmail.com"/></a>
 <a href="https://t.me/aktheking132516" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram link https://t.me/aktheking132516"/></a>
-<a href="https://t.me/aktheking132516" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp at +91 8140690999"/></a> 
+<a href="https://api.whatsapp.com/send?phone=8140690999&text=Hello!" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp at +91 8140690999"/></a> 
 <a href="https://instagram.com/0nes.and.zer0es" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="0nes.and.zer0es"/></a>
 </p>
 
