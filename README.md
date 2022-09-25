@@ -3,11 +3,11 @@
 </p>
 
 
-<h3 align="center">A newbie coder, first year student aspiring to be successful developer.</h3>
+<h3 align="center">A enthusiastic coder, second year student aspiring to be successful developer.</h3>
 
 - 🔭 I’m currently working on **Being better developer**
 
-- 🌱 I’m currently learning **DSA and Web3.0**
+- 🌱 I’m currently learning **Web3.0**
 
 
 <h3 align="left">Connect with me:</h3>
