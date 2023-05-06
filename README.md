@@ -5,9 +5,9 @@
 
 <h3 align="center">A enthusiastic coder, second year student aspiring to be successful developer.</h3>
 
-- 🔭 I’m currently working on **Being better developer**
+- 🔭 I’m currently working on **building flutter applications**
 
-- 🌱 I’m currently learning **Web3.0**
+- 🌱 I’m currently learning **DevOps**
 
 
 <h3 align="left">Connect with me:</h3>
